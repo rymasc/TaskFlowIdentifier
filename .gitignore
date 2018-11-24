@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+TaskFlowIdentifier.iml
+gen/
+lib/
+out/
+src/
